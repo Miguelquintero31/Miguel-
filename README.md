@@ -1,4 +1,3 @@
-
 # === BOT DE TRADING INTELIGENTE - MODO DEMO ===
 # 🧠 Incluye: Estrategia Avanzada, Gestión de Riesgo Adaptativa, Confirmaciones Multi-Timeframe, Backtesting Básico
 
